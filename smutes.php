@@ -5,7 +5,7 @@ $result->fetch_assoc()) { $items[] = $row; }
 ?>
 
 <!--
-comments
+checkout
 <?php
 $mysqli = new mysqli("localhost", "root", "", "kantin2");
 
